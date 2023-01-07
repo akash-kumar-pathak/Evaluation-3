@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.productContainer {
+  font-family: sans-serif;
+  text-align: center;
+  width: 400px;
+  height: 100px;
+  align-items: center;
+  background-color: red;
+}
